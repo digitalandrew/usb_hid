@@ -15,6 +15,7 @@ The board should show up as a USB drive, transfer the .ut2 file to the drive. It
 
 ### Install required libraries
 Download the Adafruit library bundle from [here](https://circuitpython.org/libraries).
+
 Unzip it and copy it into the adafruit_hid folder into the lib folder on the CIRCUITPY drive.
 
 ### Modify and add code.py
